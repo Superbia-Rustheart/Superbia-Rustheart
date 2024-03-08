@@ -1,13 +1,14 @@
 <h1 align="center">👋, I'm Dmitriy OMIN</h1>
 <h3 align="center">A funkin' software engineer from Saint Petersburg</h3>
+<br/>
 
-### 💻 Current projects
+## 💻 Current projects
 - qwewo.ru - Main project
 - qualia - Side project
 - dickweed - Pet project
 - docker-promgrafana - Pet project
 
-### 📚 Learning
+## 📚 Learning
 - Docker
 - Docker-compose
 - Kubernetes
