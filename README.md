@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Kek+lol+jopka)](https://git.io/typing-svg)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=superbia-rustheart)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=superbia-rustheart)](https://github.com/anuraghazra/github-readme-stats)
-[![codewars](https://www.codewars.com/users/superbia-alius/badges/large)](https://www.codewars.com/users/superbia-alius)
+[![codewars](https://www.codewars.com/users/Superbia-Alius/badges/large)](https://www.codewars.com/users/Superbia-Alius)
 
 ### 💻 Current projects
 - qwewo.ru - Main project
