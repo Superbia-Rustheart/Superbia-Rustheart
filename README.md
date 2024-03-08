@@ -1,5 +1,6 @@
 <h1 align="center">👋, I'm Dmitriy OMIN</h1>
 <h3 align="center">A funkin' software engineer from Saint Petersburg</h3>
+<img src="https://www.cityguide-dubai.com/fileadmin/_processed_/3/3/csm_img-worlds-of-adventures-teaser_40e4184da1.jpg" style="position: absolute;" />
 <br/>
 
 ### 💻 Current projects
