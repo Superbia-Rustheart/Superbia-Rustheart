@@ -1,7 +1,7 @@
 <h1 align="center">👋, I'm Dmitriy OMIN</h1>
 <h3 align="center">123</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=superbia-alius&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=superbia-rustheart&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 💻 Current projects
 - qwewo.ru - Main project
