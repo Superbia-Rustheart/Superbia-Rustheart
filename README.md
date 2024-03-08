@@ -3,7 +3,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![codewars](https://www.codewars.com/users/Superbia-Alius/badges/small)](https://www.codewars.com/users/Superbia-Alius)
+[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/username)
 
 ### 💻 Current projects
 - qwewo.ru - Main project
