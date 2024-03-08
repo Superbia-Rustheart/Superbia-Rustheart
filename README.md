@@ -1,5 +1,6 @@
 <h1 align="center">👋, I'm Dmitriy OMIN</h1>
-<h3 align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Kek+lol+jopka)](https://git.io/typing-svg)</h3>
+<h3 align="center"></h3>
+<div align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Kek+lol+jopka)](https://git.io/typing-svg)</div>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=superbia-rustheart)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=superbia-rustheart)](https://github.com/anuraghazra/github-readme-stats)
