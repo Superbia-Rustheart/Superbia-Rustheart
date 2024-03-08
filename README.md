@@ -2,7 +2,7 @@
 <h3 align="center">A funkin' software engineer from Saint Petersburg</h3>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Kek+lol+jopka)](https://git.io/typing-svg)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=superbia-rustheart)](https://git.io/streak-stats)
 
 ### 💻 Current projects
 - qwewo.ru - Main project
