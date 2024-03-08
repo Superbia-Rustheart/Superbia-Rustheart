@@ -1,6 +1,7 @@
 <h1 align="center">👋, I'm Dmitriy OMIN</h1>
 <h3 align="center">123</h3>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=superbia-rustheart&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 💻 Current projects
