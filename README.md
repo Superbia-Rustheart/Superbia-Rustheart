@@ -1,7 +1,7 @@
 <h1 align="center">👋, I'm Dmitriy OMIN</h1>
 <h3 align="center">A funkin' software engineer from Saint Petersburg</h3>
 
-![Just wakatime counters](https://github-readme-stats.vercel.app/api/wakatime?username=superbia-rustheart&api_domain=waka.kotrik.ru&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=superbia-rustheart)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 💻 Current projects
 - qwewo.ru - Main project
