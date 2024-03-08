@@ -5,14 +5,12 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=superbia-rustheart)](https://github.com/anuraghazra/github-readme-stats)
 [![codewars](https://www.codewars.com/users/Superbia-Alius/badges/large)](https://www.codewars.com/users/Superbia-Alius)
 
-<div align="center">
-<div align="left">
 ### 💻 Current projects
 - qwewo.ru - Main project
 - qualia - Side project
 - dickweed - Pet project
 - docker-promgrafana - Pet project
-</div>
+
 ### 📚 Learning
 - Docker
 - Docker-compose
@@ -38,4 +36,3 @@
 - Play videogames
 - Sleep
 - etc...
-</div>
