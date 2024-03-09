@@ -6,8 +6,9 @@
 [![codewars](https://www.codewars.com/users/Superbia-Alius/badges/large)](https://www.codewars.com/users/Superbia-Alius)
 <br/>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
-<br/>
 ---
+
+<br/><br/>
 
 ### 💻 Current projects
 - qwewo.ru - Main project
