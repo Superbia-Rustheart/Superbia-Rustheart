@@ -1,4 +1,3 @@
-The background color is `#ffffff` for light mode and `#000000` for dark mode
 <h1 align="center">👋, I'm Dmitriy OMIN</h1>
 <h3 align="center">Funkin' software engineer from Saint Petersburg</h3>
 
