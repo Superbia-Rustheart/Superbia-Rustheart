@@ -1,5 +1,5 @@
 <h1 align="center">👋, I'm Dmitriy OMIN</h1>
-<h3 align="center">123</h3>
+<h3 align="center">Funkin' software engineer from Saint Petersburg</h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
