@@ -1,7 +1,7 @@
 <h1 align="center">👋, I'm Dmitriy OMIN</h1>
 <h3 align="center">Funkin' software engineer from Saint Petersburg</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=superbia-rustheart&hide=javascript,css,scss,html&theme=tokyonight)
 <br/>
 [![codewars](https://www.codewars.com/users/Superbia-Alius/badges/large)](https://www.codewars.com/users/Superbia-Alius)
 <br/>
