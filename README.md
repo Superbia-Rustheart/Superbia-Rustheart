@@ -5,7 +5,7 @@
 <br/>
 [![codewars](https://www.codewars.com/users/Superbia-Alius/badges/large)](https://www.codewars.com/users/Superbia-Alius)
 <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=Superbia-Rustheart&theme=algolia&show_icons=true)](https://github.com/Superbia-Rustheart)
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=Superbia-Rustheart&theme=darcula&show_icons=true)](https://github.com/Superbia-Rustheart)
 ---
 
 <br/>
