@@ -1,9 +1,7 @@
 <h1 align="center">👋, I'm Dmitriy OMIN</h1>
 <h3 align="center">Funkin' software engineer from Saint Petersburg</h3>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Superbia-Rustheart&hide=scss&theme=darcula)
-<br/>
-[![codewars](https://www.codewars.com/users/Superbia-Alius/badges/large)](https://www.codewars.com/users/Superbia-Alius)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Superbia-Rustheart&hide=scss&theme=darcula) [![codewars](https://www.codewars.com/users/Superbia-Alius/badges/large)](https://www.codewars.com/users/Superbia-Alius)
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=Superbia-Rustheart&theme=darcula&show_icons=true)](https://github.com/Superbia-Rustheart)
 ---
