@@ -15,23 +15,24 @@
 - docker-promgrafana - Pet project
 
 ### 📚 Learning
-- Docker
-- Docker-compose
-- Kubernetes
 - Nginx
 - MongoDB
+- React
+- React Native
+- Next.js
+- Expo Go
+- TypeScript
 
 ### 💬 Ask me about
-- API development (Python, Flask, OAuth, REST, SWAGGER)
+- API development (Go, Python, Flask, FastAPI, OAuth, REST, SWAGGER)
 - Deploying (Docker, Composer, Make, Bash)
-- System Design (Patterns, Algorithms, Data Structures, Analysis)
+- System Design (Patterns, Algorithms, Data Structures)
 - UX design (Figma)
 - My hobbies
 - Side projects
 
 ### 📅 Hobbies
-- Solve programming problems at CodeWars
-- Music composing and performing
+- Music composing
 - Cooking
 - Bootcamping
 - Workout
@@ -39,3 +40,7 @@
 - Play videogames
 - Sleep
 - etc...
+
+My Habr blog: habr.com/ru/users/SuperbiaAlius
+My HabrFreelance: freelance.habr.com/freelancers/DmitryOmin
+My Telegram: @dmitriy_omin
