@@ -1,11 +1,5 @@
 <h1 align="center">👋, I'm Dmitriy OMIN</h1>
 <h3 align="center">Funkin' software engineer from Saint Petersburg</h3>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Superbia-Rustheart&hide=scss&theme=darcula)
-<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=Superbia-Rustheart&theme=darcula&show_icons=true)](https://github.com/Superbia-Rustheart)
----
-
 <br/>
 
 ### 💻 Current projects
