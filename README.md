@@ -1,5 +1,5 @@
 <h1 align="center">👋, I'm Dmitriy OMIN</h1>
-<h3 align="center">Funkin' software engineer from Saint Petersburg</h3>
+<h3 align="center">Modern software engineer from Saint Petersburg</h3>
 <br/>
 
 ### 💻 Current projects
